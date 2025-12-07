@@ -73,56 +73,40 @@ cd C:\Users\sahikk\Desktop\Bangladesh-OSINT-Toolkit-AIO
 
 🖥️ Usage Examples
 follow:
-
-WHOIS Lookup
-
-`--Bash
-
 `--python "Bangladesh OSINT Toolkit AIO Edition.py" --whois example.com
 DNS Lookup` 
 
-Bash
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --dns example.com
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --dns example.com
 Subdomain Discovery
 
-Bash
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --subdomain example.com
-IP Geolocation
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --subdomain example.com
+IP Geolocation`
 
-Bash
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --geo 103.78.84.1
+Port Scan`
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --geo 103.78.84.1
-Port Scan
 
-Bash
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --scan 103.78.84.1
+Bangladesh Phone Lookup`
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --scan 103.78.84.1
-Bangladesh Phone Lookup
 
-Bash
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --phone 01712345678
+Truecaller Open Search`
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --phone 01712345678
-Truecaller Open Search
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --truecaller 01712345678
+NID Validation`
 
-Bash
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --truecaller 01712345678
-NID Validation
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --nid 19951234567890123
+Email OSINT`
 
-Bash
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --nid 19951234567890123
-Email OSINT
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --email example@gmail.com
+File Metadata Extraction`
 
-Bash
 
-python "Bangladesh OSINT Toolkit AIO Edition.py" --email example@gmail.com
-File Metadata Extraction
-
-Bash
-
-python "Bangladesh OSINT Toolkit AIO Edition.py" --meta sample.jpg
+`--python "Bangladesh OSINT Toolkit AIO Edition.py" --meta sample.jpg`
 
 
