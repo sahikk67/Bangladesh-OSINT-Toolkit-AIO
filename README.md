@@ -1,20 +1,42 @@
-<h1 align="center">🇧🇩 Bangladesh OSINT Toolkit — AIO Version</h1>
+# 🇧🇩 Bangladesh OSINT Toolkit — AIO Edition
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-Sahikk-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Instagram-@ixe.67__-ff0066?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
-</p>
-
-<p align="center">
-  <b>All-in-One OSINT Toolkit for Bangladesh</b><br>
-  Domain • IP • Phone • Email • NID Validator • Truecaller • Metadata • Website Health
-</p>
+All-in-One Legal OSINT Toolkit for Bangladesh:  
+Domain, IP, Phone, Email, NID, Truecaller, Metadata, Website Health
 
 ---
 
----
-### 👑 Developed by Sahikk  
-Instagram: https://www.instagram.com/ixe.67_/
+### 🏆 Badges
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![OSINT](https://img.shields.io/badge/OSINT-Bangladesh-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20Termux-orange)
 
+---
+
+## 👤 Author
+**Tool by:** Sahikk  
+**Instagram:** [ixe.67_](https://www.instagram.com/ixe.67_/)
+
+---
+
+## ⚡ Features
+- WHOIS lookup
+- DNS records & subdomain discovery (crt.sh)
+- IP Geolocation
+- Port scan & Website health
+- Bangladesh Phone Intelligence
+- Truecaller Open Search
+- NID Validator (10/13/17 digit)
+- Email OSINT & MX check
+- File Metadata Extraction
+- User-Agent Parsing
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourname/Bangladesh-OSINT-Toolkit-AIO.git
+cd Bangladesh-OSINT-Toolkit-AIO
+pip install -r requirements.txt
