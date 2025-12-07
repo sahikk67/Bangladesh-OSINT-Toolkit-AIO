@@ -14,6 +14,7 @@
 
 ---
 
-## 👤 Author
-**Tool by:** *Sahikk*  
-**Instagram:** https://www.instagram.com/ixe.67_/
+---
+### 👑 Developed by Sahikk  
+Instagram: https://www.instagram.com/ixe.67_/
+
