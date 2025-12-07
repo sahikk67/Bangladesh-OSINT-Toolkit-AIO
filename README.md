@@ -67,8 +67,7 @@ Domain, IP, Phone, Email, NID, Truecaller, Metadata, Website Health
 > User-Agent Analysis
 > Python "Bangladesh OSINT Toolkit AIO Edition.py" --ua "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
-
-[!⚖️ Disclaimer]
+> [!WARNING]
 
 > This toolkit is intended for legal and ethical OSINT purposes only.
 > Do not use this tool for illegal activities. Author is not responsible for misuse.
