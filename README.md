@@ -71,24 +71,20 @@ cd C:\Users\sahikk\Desktop\Bangladesh-OSINT-Toolkit-AIO
 5️⃣ Examples
 
 
-# Domain / Network OSINT
+### Domain / Network OSINT
 python "Bangladesh OSINT Toolkit AIO Edition.py" --whois example.com
-# DNS Lookup
 python "Bangladesh OSINT Toolkit AIO Edition.py" --dns example.com
-# Subdomain Discovery
 python "Bangladesh OSINT Toolkit AIO Edition.py" --subdomain example.com
-# IP Geolocation
 python "Bangladesh OSINT Toolkit AIO Edition.py" --geo 103.78.84.1
-# Port Scan
 python "Bangladesh OSINT Toolkit AIO Edition.py" --scan 103.78.84.1
 
-# Bangladesh Phone / Truecaller
+### Bangladesh Phone / Truecaller
 python "Bangladesh OSINT Toolkit AIO Edition.py" --phone 01712345678
 python "Bangladesh OSINT Toolkit AIO Edition.py" --truecaller 01712345678
 
-# BD NID / Email OSINT
+### BD NID / Email OSINT
 python "Bangladesh OSINT Toolkit AIO Edition.py" --nid 19951234567890123
 python "Bangladesh OSINT Toolkit AIO Edition.py" --email example@gmail.com
 
-# File Metadata Extraction
+### File Metadata Extraction
 python "Bangladesh OSINT Toolkit AIO Edition.py" --meta sample.jpg
