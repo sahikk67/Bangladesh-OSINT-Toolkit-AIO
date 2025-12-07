@@ -155,7 +155,7 @@ If you want features added or help packaging the tool (PyPI, single-file exe), o
 ---
 
 ## License
-MIT — see LICENSE file for details.
+MIT — [see LICENSE file for details.](https://github.com/sahikk67/Bangladesh-OSINT-Toolkit-AIO/blob/main/LICENSE)
 
 ---
 
